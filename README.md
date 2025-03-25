@@ -26,6 +26,11 @@ Make sure you have the following installed before proceeding:
 - Node.js (latest LTS version recommended)
 - npm or yarn (Node Package Manager)
 
+## Sample Password
+
+- Username, password : admin, admin
+- Username, password : Amaan, Sample1
+
 ## Installation Steps
 
 1. **Clone the Repository**
