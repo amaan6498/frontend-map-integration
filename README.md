@@ -2,6 +2,10 @@
 
 This project is built using React.js and Node.js to create a secure dashboard application. It includes user authentication, where users can log in, view various interactive dashboard cards, and access a dynamic map integration.
 
+## Backend GitHub Link
+
+https://github.com/amaan6498/map-integration-api.git
+
 ## Technologies Used
 
 - **React** - JavaScript library for building user interfaces.
@@ -9,7 +13,7 @@ This project is built using React.js and Node.js to create a secure dashboard ap
 - **Cookies (js-cookie)** - Used for handling authentication tokens.
 - **Leaflet** - Library for interactive maps.
 
-### Backend (Node.js + Express)
+## Backend (Node.js + Express)
 
 - JWT authentication
 - CORS enabled API
